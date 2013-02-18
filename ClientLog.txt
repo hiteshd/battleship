@@ -1,0 +1,74 @@
+
+2011.12.13  01:37:30  1TimeOut - Player stoped playing
+2011.12.13  01:40:23  1Hitting (x,y) in HitCell:  (9,6)
+2011.12.13  01:40:29  1Hitting (x,y) in HitCell:  (8,6)
+2011.12.13  01:40:30  1Hitting (x,y) in HitCell:  (6,6)
+2011.12.13  01:40:32  1Hitting (x,y) in HitCell:  (7,6)
+2011.12.13  01:40:35  1Missing (x,y) in HitCell:  (11,6)
+2011.12.13  01:40:39  1Missing (x,y) in HitCell:  (18,16)
+2011.12.13  01:42:43  1Missing (x,y) in HitCell:  (5,9)
+2011.12.13  01:47:09  1Missing (x,y) in HitCell:  (8,8)
+2011.12.13  01:47:34  1Hitting (x,y) in HitCell:  (9,14)
+2011.12.13  01:47:36  1Hitting (x,y) in HitCell:  (10,14)
+2011.12.13  01:47:36  1Hitting (x,y) in HitCell:  (11,14)
+2011.12.13  01:47:37  1Hitting (x,y) in HitCell:  (12,14)
+2011.12.13  01:52:06  1Missing (x,y) in HitCell:  (10,7)
+2011.12.13  01:52:24  1Hitting (x,y) in HitCell:  (10,14)
+2011.12.13  01:52:24  1Hitting (x,y) in HitCell:  (11,14)
+2011.12.13  01:52:25  1Hitting (x,y) in HitCell:  (12,14)
+2011.12.13  01:52:26  1Hitting (x,y) in HitCell:  (13,14)
+2011.12.13  01:52:26  1Hitting (x,y) in HitCell:  (14,14)
+2011.12.13  01:52:51  1Hitting (x,y) in HitCell:  (11,10)
+2011.12.13  01:52:53  1Hitting (x,y) in HitCell:  (12,10)
+2011.12.13  01:52:53  1Hitting (x,y) in HitCell:  (13,10)
+2011.12.13  01:52:55  1Hitting (x,y) in HitCell:  (14,10)
+2011.12.13  01:53:05  1Hitting (x,y) in HitCell:  (16,6)
+2011.12.13  01:53:06  1Hitting (x,y) in HitCell:  (17,6)
+2011.12.13  01:53:07  1Missing (x,y) in HitCell:  (19,6)
+2011.12.13  01:57:12  
+*****************You sunk my battleship!*******************
+
+2011.12.13  01:57:16  Missing (x,y) in HitCell:  (10,10)
+2011.12.13  01:57:42  Missing (x,y) in HitCell:  (13,5)
+2011.12.13  01:58:03  Missing (x,y) in HitCell:  (10,15)
+2011.12.13  01:58:31  
+*****************You sunk my battleship!*******************
+
+2011.12.13  01:58:43  
+*****************You sunk my battleship!*******************
+
+2011.12.13  01:58:55  
+*****************You sunk my battleship!*******************
+
+2011.12.13  01:59:05  
+*****************You sunk my battleship!*******************
+
+2011.12.13  01:59:42  Missing (x,y) in HitCell:  (14,17)
+2011.12.13  01:59:58  
+*****************You sunk my battleship!*******************
+
+2011.12.13  02:00:01  You did not win!
+2011.12.13  07:02:56  Missing (x,y) in HitCell:  (7,5)
+2011.12.13  07:03:01  Missing (x,y) in HitCell:  (7,20)
+2011.12.13  07:03:05  Missing (x,y) in HitCell:  (7,19)
+2011.12.13  07:03:26  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:03:29  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:03:33  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:03:37  Missing (x,y) in HitCell:  (14,18)
+2011.12.13  07:03:40  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:03:41  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:03:49  Missing (x,y) in HitCell:  (16,23)
+2011.12.13  07:03:52  
+*****************You sunk my battleship!*******************
+
+2011.12.13  07:04:01  You did not win!
